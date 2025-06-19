@@ -1,4 +1,4 @@
-# DL_Ops-Project
+# Document Level Paraphraser WebApp
 Paraphrase generator
 
 
